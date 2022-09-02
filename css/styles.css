@@ -1,0 +1,18 @@
+@font-face {
+    font-family: OdinRoundedbold;
+    src: url(../fonts/odin-rounded/OdinRoundedBold.otf);
+}
+
+@font-face{
+    font-family: OrdinRounededlight;
+    src: url(../fonts/odin-rounded/OdinRoundedLight.otf);
+}
+
+h1.orb {
+    font-family: OdinRoundedbold;
+}
+
+h1.orl{
+    font-family: OdinRoundedlight;
+    font-weight: 100;
+}
